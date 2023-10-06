@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TonaTheKing
+- 👀 I’m interested in ... Gaming Development, OpenGL
+- 🌱 I’m currently learning ... C++, OpenGL
+- 💞️ I’m looking to collaborate on ... C++
+- 📫 How to reach me ... Am Working Currently on a site
+- Google Hire me :)
