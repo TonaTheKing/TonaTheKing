@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonaTheKing
-- 👀 I’m interested in ... Gaming Development, OpenGL
-- 🌱 I’m currently learning ... C++, OpenGL
+- 👀 I’m interested in ... Web design, web development
+- 🧠I have experience in HTML, CSS, and JS.
+- 🌱 I’m currently learning ... C++, JS
 - 💞️ I’m looking to collaborate on ... C++
-- 📫 How to reach me ... Am Working Currently on a site
-- Google Hire me :)
+- 📫 How to reach me ... I am currently working on a site portfolio.
